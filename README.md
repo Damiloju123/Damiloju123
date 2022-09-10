@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Damiloju Olagbaded</h1>
+<h1 align="center">Hi 👋, I'm Damiloju Olagbade</h1>
 <h3 align="center">I am quite passionate about cloud computing and the security world. I prefer to use my curiosity to learn about modern technologies so that I may be a part of the new world that technology is ushering us into.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiloju123&label=Profile%20views&color=0e75b6&style=flat" alt="damiloju123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/damiloju__" target="blank"><img src="https://img.shields.io/twitter/follow/damiloju__?logo=twitter&style=for-the-badge" alt="damiloju__" /></a> </p>
 
-- 🔭 I’m currently working on **a CI/CD project using AWS managed services (Beanstalk, CodeCommit, CodeDeploy, CodeBuild, CodePipeline)**
+- 🔭 I’m currently working on **various CI/CD projects using AWS managed services**
 
 - 🌱 I’m currently learning **to improve my various skill levels on various DevOps tools**
 
