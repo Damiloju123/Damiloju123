@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Damiloju Olagbade</h1>
-<h3 align="center">I am quite passionate about cloud computing and the security world. I prefer to use my curiosity to learn about modern technologies so that I may be a part of the new world that technology is ushering us into.</h3>
+<h3 align="center">Highly skilled DevOps Engineer Engineer with experience leading enterprise support engineering and database administration. Tech-savvy with a passion for DevOps, Site Reliability, technical support, and building and deploying applications by the adoption of practices such as CI/CD in runtimes with tools such as Jenkins and Ansible. In-depth knowledge of principles of continuous integration, deployment, and cloud implementation, and data engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiloju123&label=Profile%20views&color=0e75b6&style=flat" alt="damiloju123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/damiloju__" target="blank"><img src="https://img.shields.io/twitter/follow/damiloju__?logo=twitter&style=for-the-badge" alt="damiloju__" /></a> </p>
 
-- 🔭 I’m currently working on **various CI/CD projects using AWS managed services**
+- 🔭 I’m currently working on **various CI/CD projects using Docker, Kubernetes and AWS managed services**
 
 - 🌱 I’m currently learning **to improve my various skill levels on various DevOps tools**
 
