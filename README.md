@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiloju Olagbade</h1>
-<h3 align="center">Highly skilled DevOps Engineer Engineer with experience leading enterprise support engineering and database administration. Tech-savvy with a passion for DevOps, Site Reliability, technical support, and building and deploying applications by the adoption of practices such as CI/CD in runtimes with tools such as Jenkins and Ansible. In-depth knowledge of principles of continuous integration, deployment, and cloud implementation, and data engineering. </h3>
+<h3 align="center">Highly skilled Applications Engineer with experience leading enterprise support engineering and database administration. Tech-savvy with a passion for DevOps, Site Reliability, technical support, and building and deploying applications by the adoption of practices such as CI/CD in runtimes with tools such as Jenkins and Ansible. In-depth knowledge of principles of continuous integration, deployment, and cloud implementation, and data engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damiloju123&label=Profile%20views&color=0e75b6&style=flat" alt="damiloju123" /> </p>
 
